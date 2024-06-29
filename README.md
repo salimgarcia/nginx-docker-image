@@ -1,4 +1,4 @@
-My first custom Docker image made by following (this)[https://www.youtube.com/watch?v=SnSH8Ht3MIc&list=LL&index=3] tutorial
+My first custom Docker image made by following [this](https://www.youtube.com/watch?v=SnSH8Ht3MIc&list=LL&index=3) tutorial
 
 Runs an nginx server and serves a simple webpage
 
